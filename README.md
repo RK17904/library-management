@@ -1,29 +1,29 @@
 # Library Management System - Spring Boot Backend
 
-A simple and efficient REST API for a Library Management System, built with Spring Boot and MongoDB. [cite_start]This project implements full CRUD (Create, Read, Update, Delete) operations and additional custom queries for managing a book inventory. [cite: 7, 8]
+A simple and efficient REST API for a Library Management System, built with Spring Boot and MongoDB. [cite_start]This project implements full CRUD (Create, Read, Update, Delete) operations and additional custom queries for managing a book inventory.
 
-[cite_start]This project was developed as part of the Full-Stack Software Development lab. [cite: 5]
+]This project was developed as part of the Full-Stack Software Development lab. 
 
 ## ✨ Features
 
 * **Full CRUD Operations:**
-    * [cite_start]**Create:** Add a new book to the database. [cite: 70]
-    * [cite_start]**Read:** Retrieve a list of all books or a single book by its ID. [cite: 72, 73]
-    * [cite_start]**Update:** Modify the details of an existing book. [cite: 74]
-    * [cite_start]**Delete:** Remove a book from the database by its ID. [cite: 75]
+    * [cite_start]**Create:** Add a new book to the database. 
+    * [cite_start]**Read:** Retrieve a list of all books or a single book by its ID. 
+    * [cite_start]**Update:** Modify the details of an existing book.
+    * [cite_start]**Delete:** Remove a book from the database by its ID.
 * **Custom API Endpoints:**
-    * [cite_start]Find all books by a specific publication year. [cite: 76]
-    * [cite_start]Get the genre of a specific book by its ID. [cite: 77]
-    * [cite_start]Delete all books published in a specific year. [cite: 78]
+    * [cite_start]Find all books by a specific publication year. 
+    * [cite_start]Get the genre of a specific book by its ID. 
+    * [cite_start]Delete all books published in a specific year. 
 
 ## 🛠️ Tech Stack
 
 * **Java**
 * **Spring Boot**
-* [cite_start]**Spring Web:** For creating RESTful API endpoints. [cite: 14]
-* [cite_start]**Spring Data MongoDB:** For database integration and repositories. [cite: 15]
-* [cite_start]**MongoDB Atlas:** Cloud-hosted NoSQL database. [cite: 7]
-* [cite_start]**Lombok:** To reduce boilerplate code. [cite: 16]
+* [cite_start]**Spring Web:** For creating RESTful API endpoints. 
+* [cite_start]**Spring Data MongoDB:** For database integration and repositories. ]
+* [cite_start]**MongoDB Atlas:** Cloud-hosted NoSQL database. 
+* [cite_start]**Lombok:** To reduce boilerplate code. 
 * **Maven:** For project building and dependency management.
 
 ## 🚀 How to Run Locally
