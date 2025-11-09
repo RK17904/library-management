@@ -2,7 +2,7 @@
 
 A simple and efficient REST API for a Library Management System, built with Spring Boot and MongoDB. [cite_start]This project implements full CRUD (Create, Read, Update, Delete) operations and additional custom queries for managing a book inventory.
 
-]This project was developed as part of the Full-Stack Software Development lab. 
+This project was developed as part of the Full-Stack Software Development lab. 
 
 ## ✨ Features
 
