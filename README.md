@@ -7,23 +7,23 @@ A simple and efficient REST API for a Library Management System, built with Spri
 ## ✨ Features
 
 * **Full CRUD Operations:**
-    * [cite_start]**Create:** Add a new book to the database. 
-    * [cite_start]**Read:** Retrieve a list of all books or a single book by its ID. 
-    * [cite_start]**Update:** Modify the details of an existing book.
-    * [cite_start]**Delete:** Remove a book from the database by its ID.
+    * **Create:** Add a new book to the database. 
+    * **Read:** Retrieve a list of all books or a single book by its ID. 
+    ***Update:** Modify the details of an existing book.
+    * **Delete:** Remove a book from the database by its ID.
 * **Custom API Endpoints:**
-    * [cite_start]Find all books by a specific publication year. 
-    * [cite_start]Get the genre of a specific book by its ID. 
-    * [cite_start]Delete all books published in a specific year. 
+    * Find all books by a specific publication year. 
+    * Get the genre of a specific book by its ID. 
+    * Delete all books published in a specific year. 
 
 ## 🛠️ Tech Stack
 
 * **Java**
 * **Spring Boot**
-* [cite_start]**Spring Web:** For creating RESTful API endpoints. 
-* [cite_start]**Spring Data MongoDB:** For database integration and repositories. ]
-* [cite_start]**MongoDB Atlas:** Cloud-hosted NoSQL database. 
-* [cite_start]**Lombok:** To reduce boilerplate code. 
+* **Spring Web:** For creating RESTful API endpoints. 
+* **Spring Data MongoDB:** For database integration and repositories. ]
+* **MongoDB Atlas:** Cloud-hosted NoSQL database. 
+* **Lombok:** To reduce boilerplate code. 
 * **Maven:** For project building and dependency management.
 
 ## 🚀 How to Run Locally
